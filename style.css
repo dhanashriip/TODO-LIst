@@ -1,0 +1,37 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    background-color: rgb(243, 215, 215);
+}
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 85%;
+    padding: 8px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+    border: 1px solid #050202;
+}
+
+button {
+    padding: 8px 15px;
+    background-color: #ebd55b;
+    color: rgb(10, 10, 10);
+    border: none;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    padding: 8px;
+    border-bottom: 1px solid #000000;
+}
+
+.edit-buttons {
+    float: right;
+}
